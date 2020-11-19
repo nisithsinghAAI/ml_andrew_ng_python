@@ -1,2 +1,2 @@
 # ml_andrew_ng_python
- Assignment from the Standford ML course
+ Assignments from the Standford ML course
